@@ -3,7 +3,7 @@
 ### `npm start`
 
 Runs the client and server 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser\
 Server on [http://localhost:5050](http://localhost:5050)
 
 ### `npm run start:client`
